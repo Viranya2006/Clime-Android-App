@@ -30,7 +30,7 @@ import retrofit2.Response;
 public class MainActivity extends AppCompatActivity {
 
     // IMPORTANT: Replace this with your own API key from OpenWeatherMap
-    private static final String API_KEY = "d0dbf8698a88cf3d1c12fcef54f7d685";
+    private static final String API_KEY = "YOUR_API_KEY_HERE";
     private static final String TAG = "MainActivity";
 
     private WeatherApiService weatherApiService;
