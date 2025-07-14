@@ -1,9 +1,9 @@
 # **🌦️ Clime Weather App**
 
 *A beautiful, modern weather forecast app for Android, built with Java and the OpenWeatherMap API.*
-
-<img width="1080" height="2412" alt="image" src="https://github.com/user-attachments/assets/3c38804c-538d-48a9-a990-e371f9c45048" />
-
+<div style="text-align: center;">
+<img width="270" height="603" alt="image" src="https://github.com/user-attachments/assets/3c38804c-538d-48a9-a990-e371f9c45048" />
+</div>
 
 ## **✨ Features**
 
