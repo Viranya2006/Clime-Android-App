@@ -2,6 +2,9 @@
 
 *A beautiful, modern weather forecast app for Android, built with Java and the OpenWeatherMap API.*
 
+<img width="1080" height="2412" alt="image" src="https://github.com/user-attachments/assets/3c38804c-538d-48a9-a990-e371f9c45048" />
+
+
 ## **✨ Features**
 
 * **Current Weather:** Get instant access to the temperature, city name, and weather conditions for any city.  
